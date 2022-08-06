@@ -1,0 +1,28 @@
+/*
+.totalBox {
+    display: grid;
+    !*width: 700px;*!
+    grid-template-areas:
+"h"
+"n";
+    grid-template-rows: 1fr 2fr;
+    !*grid-template-columns: 3fr 10fr;*!
+    text-align: center;
+    height: 300px;
+    width: 230px;
+    margin: auto;
+}
+
+.functionalBox {
+    grid-area: n;
+    display: flex;
+    background-color: darkgrey;
+    border-radius: 0 0 20px 20px;
+    !*padding: 60px;*!
+    !*display: inline-block;*!
+
+}
+
+*/
+
+

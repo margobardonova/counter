@@ -1,0 +1,11 @@
+.button {
+    background-color: #1c1f1f;
+    color: white;
+    border-radius: 25px;
+    margin: 37px;
+    width: 120px;
+    height: 50px;
+}
+.button:disabled {
+    background: olive;
+}
